@@ -10,7 +10,7 @@ st.set_page_config(
 # --- Main Page Content ---
 
 # 1. Display the text
-st.title("I love you! ❤️")
+st.title("I love you! Adyaaaaaaaaaaa ❤️")
 st.header("Just wanted you to know.")
 
 # 2. Display an image
