@@ -10,16 +10,16 @@ st.set_page_config(
 # --- Main Page Content ---
 
 # 1. Display the text
-st.title("I love you! Adyaaaaaaaaaaa ❤️")
-st.header("Just wanted you to know.")
+st.title("SO SORRY CUTUUUUUUUUU" ❤️")
+st.header("Maaf Kar do naaaaaaaa")
 
 # 2. Display an image
 # You can use an image from a URL
-image_url = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/1200px-Heart_coraz%C3%B3n.svg.png"
+image_url = "https://upload.wikimedia.org/wikipedia/commons/8/8c/Apology_Image.jpg"
 
 st.image(
     image_url, 
-    caption="With all my heart", 
+    caption="karoge na?", 
     width=300  # You can adjust the width as needed
 )
 
