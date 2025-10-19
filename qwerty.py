@@ -10,7 +10,7 @@ st.set_page_config(
 # --- Main Page Content ---
 
 # 1. Display the text
-st.title("SO SORRY CUTUUUUUUUUU" ❤️")
+st.title("SO SORRY CUTUUUUUUUUU ❤️")
 st.header("Maaf Kar do naaaaaaaa")
 
 # 2. Display an image
